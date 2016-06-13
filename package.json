@@ -1,0 +1,42 @@
+{
+  "name": "ip-quiz",
+  "version": "1.0.0",
+  "description": "Simple react/redux test with an IP API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "babel": "latest",
+    "babel-eslint": "^6.0.4",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "cross-env": "^1.0.8",
+    "css-loader": "latest",
+    "eslint": "latest",
+    "eslint-loader": "latest",
+    "eslint-plugin-react": "latest",
+    "extract-text-webpack-plugin": "latest",
+    "file-loader": "latest",
+    "font-awesome": "latest",
+    "materialize-css": "latest",
+    "node-sass": "latest",
+    "normalize-css": "latest",
+    "postcss-loader": "latest",
+    "precss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "resolve-url": "latest",
+    "sass-loader": "latest",
+    "style-loader": "latest",
+    "url-loader": "latest",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
